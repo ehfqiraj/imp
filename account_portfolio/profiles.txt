@@ -1,0 +1,33 @@
+I have a Bachelor degree in computer science and have more than 11 years of IT experience. I started programming using Python and PHP From 2008, I have been developing with PHP frameworks(CI, WP, Laravel, Magento) and Django and Flask including , Python and also HTML, Javascript.
+Beside PHP and Python, I have also specialized in web development using MEAN stack(Mongodb, Expressjs, Angularjs or Angular 2+, Nodejs) or MERN stack.
+For the last 3 years, I have been developing hybrid applications type of Web + Mobile or Desktop + Mobile as well as standalone Android and iPhone Apps.
+I have been working for different companies such as Radiant Systems, MEMOS, Riganti, Dlubal, and ISOFT with different technologies as developer, team leader & project manager and now I am working as a full-time freelancer and project manager of co-workers.
+
+Technology Skills:
+-  Basic Programming Languages
+  o Basic, Visual Basic, Pascal, Delphi, C/C++, Visual C++
+  o C#, VB.NET
+  o Java
+  o PHP
+  o Python
+  o Ruby
+  o HTMLS5, Javascript
+  o Prolog, LISP
+- Website Technology
+  o ASP.NET WebForms & MVC(Boilerplate framework, NopCommerce)
+  o PHP(CI, WP, Yii, Laravel, Magento)
+  o Python(Django, Flask)
+  o Ruby & Ruby on Rails
+  o Javascript(JQuery, Bootstrap, ExtJS, knockoutJS, drundal, AngularJS, Webix)
+  o nodejs(MEAN, MERN)
+  o React Native, 
+- DB Technology
+  o MS SQL
+  o MySQL
+  o SQLite
+  o MongoDB
+  o PostgreSQL
+- SW Project Design & Management Skill
+  o Planing using MS Project
+  o Good skill of writing requirements, DB & SW Architecture Design
+  o Designing with Enterprise Architect, Sybase Power Designer
